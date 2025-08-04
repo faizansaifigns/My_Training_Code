@@ -26,5 +26,4 @@ Welcome to my Java Programming Training repository! This GitHub repo contains al
 | 📁 File Handling | Reading/Writing Files using `FileReader`, `BufferedReader`, `FileWriter` |
 | 🛠️ Mini Projects | ATM Simulation, Student Grade Calculator, Bank Management System |
 
-## 🗂️ Folder Structure
 
